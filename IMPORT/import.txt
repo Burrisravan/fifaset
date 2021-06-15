@@ -1,0 +1,6 @@
+import<filename>                             / this will import all the variables, function, classes, in to the new file
+import<filename> as                          / used for rename the file if it is long
+form<filename> import <function_name>        /this will import all the fucntion
+from<filename> import <class_name>           / this will import all the classes
+from<filename> import*                       /this is similar to 1
+import filename1,filename2,filename3         / this will import specific fucntions
